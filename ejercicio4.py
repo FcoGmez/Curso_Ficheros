@@ -20,6 +20,8 @@ plt.plot(x)
 plt.plot(y)
 plt.plot(z)
 
+plt.ylabel('G')
+
 plt.title('Ejercicio4')
 plt.legend('XYZ')
 plt.show()
